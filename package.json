@@ -1,5 +1,5 @@
 {
-  "name": "groupchat",
+  "name": "todoapp",
   "version": "1.0.0",
   "description": "A group chat app for advance node/express assignment",
   "main": "app.js",
