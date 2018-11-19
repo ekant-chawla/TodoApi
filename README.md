@@ -1,6 +1,6 @@
-Project Name - Real Time To do List
-Deadline - 15 Days
-Project Description -
+# Project Name - Real Time To do List
+# Deadline - 15 Days
+# Project Description
 This project is aimed to create a ready to deploy Live TODO List management system.
 It must have all the features mentioned below and it must be deployed on a server
 before submission. There should be two separate parts of the application. A Frontend
@@ -10,7 +10,7 @@ Frontend Technologies allowed - HTML5, CSS3, JS, Bootstrap and Angular
 Backend Technologies allowed - NodeJS, ExpressJS and Socket.IO
 Database Allowed - MongoDB and Redis
 
-Features of the Application -
+# Features of the Application
 1) User management System -
 a) Signup - User should be able to sign up on the platform providing all
 details like FirstName, LastName, Email and Mobile number. Country
@@ -52,3 +52,19 @@ keyboard commands, which are "ctrl+z" for windows and "cmd+z" for mac.
 (like 404 or 500) with a different page. Also, all kind of errors, exceptions and
 messages should be handled properly on frontend. The user should be aware all
 the time on frontend about what is happening in the system.
+
+
+
+# Backend Code
+https://github.com/ekant-chawla/TodoApi
+
+# Frontend Code
+https://github.com/ekant-chawla/ToDoFrontEndCode
+
+# Live Url
+http://todoapp.ekantchawla.me/
+
+# API doc
+https://ekant-chawla.github.io/todoApiDoc/
+
+https://ekant-chawla.github.io/todoSocketDoc/
